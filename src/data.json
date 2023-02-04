@@ -1,0 +1,802 @@
+[
+  {
+    "id": 51,
+    "name": "Ernser, Fahey and McCullough",
+    "dateRegistered": "2023-02-03T21:18:03.328Z",
+    "ownerName": "Diana Bernhard",
+    "address": "Manhattan",
+    "phoneNumber": "(429) 492-9058 x97671"
+  },
+  {
+    "id": 42,
+    "name": "Hartmann - Nicolas",
+    "dateRegistered": "2023-02-03T18:56:48.544Z",
+    "ownerName": "Levi Carter",
+    "address": "Deltona",
+    "phoneNumber": "657.787.0186 x67894"
+  },
+  {
+    "id": 77,
+    "name": "Murazik - Kuhic",
+    "dateRegistered": "2023-02-03T12:14:29.073Z",
+    "ownerName": "Mathew Corkery",
+    "address": "Newark",
+    "phoneNumber": "221.732.3318"
+  },
+  {
+    "id": 87,
+    "name": "Koss Inc",
+    "dateRegistered": "2023-02-03T23:24:12.312Z",
+    "ownerName": "Freddie Friesen",
+    "address": "Lauderhill",
+    "phoneNumber": "449.954.5093 x851"
+  },
+  {
+    "id": 79,
+    "name": "Baumbach - Watsica",
+    "dateRegistered": "2023-02-03T09:27:59.648Z",
+    "ownerName": "Mr. Ismael Kertzmann",
+    "address": "Phoenix",
+    "phoneNumber": "537.697.5857 x553"
+  },
+  {
+    "id": 22,
+    "name": "Tremblay - Lakin",
+    "dateRegistered": "2023-02-03T19:32:36.449Z",
+    "ownerName": "Shannon Wehner",
+    "address": "Brooklyn Park",
+    "phoneNumber": "718.368.1208 x25189"
+  },
+  {
+    "id": 10,
+    "name": "Osinski, Cruickshank and Howell",
+    "dateRegistered": "2023-02-03T12:57:32.216Z",
+    "ownerName": "Garrett Heathcote",
+    "address": "Madera",
+    "phoneNumber": "653-835-1314 x88121"
+  },
+  {
+    "id": 39,
+    "name": "Rosenbaum, Spinka and Funk",
+    "dateRegistered": "2023-02-03T21:07:31.098Z",
+    "ownerName": "Eddie Orn",
+    "address": "Milwaukee",
+    "phoneNumber": "(877) 739-8442 x4270"
+  },
+  {
+    "id": 41,
+    "name": "Considine LLC",
+    "dateRegistered": "2023-02-03T17:20:59.017Z",
+    "ownerName": "Ruth Anderson PhD",
+    "address": "Allentown",
+    "phoneNumber": "(924) 431-2804 x849"
+  },
+  {
+    "id": 59,
+    "name": "Green - Kautzer",
+    "dateRegistered": "2023-02-03T23:54:05.862Z",
+    "ownerName": "Neil Reilly",
+    "address": "Jefferson City",
+    "phoneNumber": "(538) 835-9423 x80805"
+  },
+  {
+    "id": 4,
+    "name": "Miller, Wintheiser and Lubowitz",
+    "dateRegistered": "2023-02-03T01:31:20.196Z",
+    "ownerName": "Henrietta Fay",
+    "address": "Rialto",
+    "phoneNumber": "763-686-0703 x532"
+  },
+  {
+    "id": 34,
+    "name": "Koepp - McCullough",
+    "dateRegistered": "2023-02-03T07:53:00.925Z",
+    "ownerName": "Miss Stanley Jaskolski",
+    "address": "Palm Springs",
+    "phoneNumber": "(519) 588-2176 x356"
+  },
+  {
+    "id": 18,
+    "name": "Padberg and Sons",
+    "dateRegistered": "2023-02-03T18:25:30.725Z",
+    "ownerName": "Shane Langworth",
+    "address": "Medford",
+    "phoneNumber": "(349) 644-1213 x727"
+  },
+  {
+    "id": 21,
+    "name": "Bradtke - Turcotte",
+    "dateRegistered": "2023-02-03T21:23:10.180Z",
+    "ownerName": "Heather Pfeffer",
+    "address": "Lancaster",
+    "phoneNumber": "477.746.6877 x6170"
+  },
+  {
+    "id": 67,
+    "name": "Mraz, Heidenreich and Skiles",
+    "dateRegistered": "2023-02-03T07:23:06.584Z",
+    "ownerName": "Rodney Ondricka",
+    "address": "Bridgeport",
+    "phoneNumber": "(740) 462-3998 x00517"
+  },
+  {
+    "id": 26,
+    "name": "Nienow and Sons",
+    "dateRegistered": "2023-02-03T16:31:08.124Z",
+    "ownerName": "Janice Stark",
+    "address": "Muncie",
+    "phoneNumber": "(931) 964-6390 x081"
+  },
+  {
+    "id": 47,
+    "name": "Bartoletti LLC",
+    "dateRegistered": "2023-02-03T23:36:21.043Z",
+    "ownerName": "Miss Tamara Johnson",
+    "address": "Lansing",
+    "phoneNumber": "244.678.9967 x4308"
+  },
+  {
+    "id": 3,
+    "name": "Rosenbaum, Willms and Greenholt",
+    "dateRegistered": "2023-02-04T00:12:03.963Z",
+    "ownerName": "Lila Aufderhar",
+    "address": "Chino Hills",
+    "phoneNumber": "(956) 671-9740 x41883"
+  },
+  {
+    "id": 41,
+    "name": "Kutch LLC",
+    "dateRegistered": "2023-02-03T22:07:35.258Z",
+    "ownerName": "Kayla King",
+    "address": "Rosemead",
+    "phoneNumber": "260.624.9371 x89555"
+  },
+  {
+    "id": 10,
+    "name": "Stroman, Wiza and D'Amore",
+    "dateRegistered": "2023-02-03T21:06:32.831Z",
+    "ownerName": "Kelley Heaney",
+    "address": "Salinas",
+    "phoneNumber": "1-827-364-5227 x67386"
+  },
+  {
+    "id": 80,
+    "name": "Reynolds Inc",
+    "dateRegistered": "2023-02-03T15:13:55.475Z",
+    "ownerName": "Lillian Blanda",
+    "address": "Johns Creek",
+    "phoneNumber": "(234) 838-0934 x3805"
+  },
+  {
+    "id": 68,
+    "name": "Von, Kling and Shields",
+    "dateRegistered": "2023-02-03T16:46:50.911Z",
+    "ownerName": "Mrs. Frankie McLaughlin",
+    "address": "Yuma",
+    "phoneNumber": "906.597.4859 x524"
+  },
+  {
+    "id": 64,
+    "name": "Nienow, Feil and Price",
+    "dateRegistered": "2023-02-03T02:03:08.196Z",
+    "ownerName": "Terry Hand",
+    "address": "State College",
+    "phoneNumber": "450.291.3407 x2600"
+  },
+  {
+    "id": 83,
+    "name": "Blick - Sawayn",
+    "dateRegistered": "2023-02-03T11:47:17.204Z",
+    "ownerName": "Doris Stamm",
+    "address": "Chicopee",
+    "phoneNumber": "1-604-571-7919"
+  },
+  {
+    "id": 53,
+    "name": "Kulas and Sons",
+    "dateRegistered": "2023-02-03T23:34:29.360Z",
+    "ownerName": "Roberto Roberts",
+    "address": "Strongsville",
+    "phoneNumber": "(533) 525-0788"
+  },
+  {
+    "id": 15,
+    "name": "Crist, McLaughlin and Lubowitz",
+    "dateRegistered": "2023-02-03T09:01:39.907Z",
+    "ownerName": "Tyrone Bergnaum V",
+    "address": "Coconut Creek",
+    "phoneNumber": "877.753.2251 x4818"
+  },
+  {
+    "id": 13,
+    "name": "Kuphal, Legros and Herzog",
+    "dateRegistered": "2023-02-03T13:17:50.100Z",
+    "ownerName": "Eula Rempel",
+    "address": "Yakima",
+    "phoneNumber": "882.612.1628 x372"
+  },
+  {
+    "id": 60,
+    "name": "Moen - Marquardt",
+    "dateRegistered": "2023-02-03T03:17:38.595Z",
+    "ownerName": "Gertrude Kirlin",
+    "address": "Edina",
+    "phoneNumber": "1-566-442-1444 x5405"
+  },
+  {
+    "id": 24,
+    "name": "McLaughlin and Sons",
+    "dateRegistered": "2023-02-03T17:08:11.784Z",
+    "ownerName": "Bethany Ledner",
+    "address": "Rowland Heights",
+    "phoneNumber": "914.873.8308"
+  },
+  {
+    "id": 53,
+    "name": "Purdy - Senger",
+    "dateRegistered": "2023-02-03T08:11:18.054Z",
+    "ownerName": "Whitney Goldner",
+    "address": "Spring",
+    "phoneNumber": "515.735.8214 x08811"
+  },
+  {
+    "id": 97,
+    "name": "Lehner - Hettinger",
+    "dateRegistered": "2023-02-03T14:07:59.962Z",
+    "ownerName": "Sam Green",
+    "address": "Waco",
+    "phoneNumber": "844-407-3352 x16397"
+  },
+  {
+    "id": 7,
+    "name": "Emmerich - Morar",
+    "dateRegistered": "2023-02-03T10:45:31.500Z",
+    "ownerName": "Freddie Toy MD",
+    "address": "Providence",
+    "phoneNumber": "1-258-789-9953 x742"
+  },
+  {
+    "id": 60,
+    "name": "Parisian Group",
+    "dateRegistered": "2023-02-03T14:23:57.919Z",
+    "ownerName": "Rita Spinka",
+    "address": "Vancouver",
+    "phoneNumber": "1-398-635-1495 x52566"
+  },
+  {
+    "id": 95,
+    "name": "Dickinson Group",
+    "dateRegistered": "2023-02-03T20:04:41.948Z",
+    "ownerName": "Cindy Crooks",
+    "address": "Irvine",
+    "phoneNumber": "355.937.3809 x469"
+  },
+  {
+    "id": 59,
+    "name": "Metz, Watsica and Gutmann",
+    "dateRegistered": "2023-02-03T18:51:00.274Z",
+    "ownerName": "Monique Sipes",
+    "address": "Mission Viejo",
+    "phoneNumber": "975-497-7725 x2508"
+  },
+  {
+    "id": 92,
+    "name": "Homenick - Bogisich",
+    "dateRegistered": "2023-02-03T23:37:03.286Z",
+    "ownerName": "Amber Harris",
+    "address": "Trenton",
+    "phoneNumber": "468.887.2258"
+  },
+  {
+    "id": 2,
+    "name": "Moen - Murazik",
+    "dateRegistered": "2023-02-03T17:27:37.419Z",
+    "ownerName": "Mr. Krista Nicolas",
+    "address": "Irving",
+    "phoneNumber": "(861) 226-4342"
+  },
+  {
+    "id": 41,
+    "name": "Mills and Sons",
+    "dateRegistered": "2023-02-03T18:37:37.206Z",
+    "ownerName": "Estelle Glover",
+    "address": "Santa Maria",
+    "phoneNumber": "239-679-9045"
+  },
+  {
+    "id": 94,
+    "name": "Murphy, Okuneva and Renner",
+    "dateRegistered": "2023-02-04T01:12:31.905Z",
+    "ownerName": "Miss Charles Howell",
+    "address": "McLean",
+    "phoneNumber": "(910) 813-7772 x832"
+  },
+  {
+    "id": 28,
+    "name": "Jast Inc",
+    "dateRegistered": "2023-02-03T15:18:51.688Z",
+    "ownerName": "Wilfred Bahringer",
+    "address": "Elkhart",
+    "phoneNumber": "(975) 212-1823 x289"
+  },
+  {
+    "id": 52,
+    "name": "Will LLC",
+    "dateRegistered": "2023-02-03T01:28:57.485Z",
+    "ownerName": "Pearl Schmitt",
+    "address": "Fontana",
+    "phoneNumber": "749-665-9064"
+  },
+  {
+    "id": 46,
+    "name": "Cole - Lueilwitz",
+    "dateRegistered": "2023-02-03T03:27:16.224Z",
+    "ownerName": "Gilberto Zboncak",
+    "address": "Deltona",
+    "phoneNumber": "(414) 425-7904 x842"
+  },
+  {
+    "id": 49,
+    "name": "Hoeger, Senger and Bins",
+    "dateRegistered": "2023-02-03T17:28:07.964Z",
+    "ownerName": "Rachel Brakus",
+    "address": "Miami",
+    "phoneNumber": "1-401-826-2722"
+  },
+  {
+    "id": 51,
+    "name": "Torphy, Becker and Renner",
+    "dateRegistered": "2023-02-03T16:02:17.909Z",
+    "ownerName": "Melody Weber",
+    "address": "Buckeye",
+    "phoneNumber": "568-714-0552 x156"
+  },
+  {
+    "id": 88,
+    "name": "Willms - Prohaska",
+    "dateRegistered": "2023-02-03T05:12:15.897Z",
+    "ownerName": "Velma Okuneva",
+    "address": "Cedar Hill",
+    "phoneNumber": "573.500.2041 x0580"
+  },
+  {
+    "id": 63,
+    "name": "Hackett - Bechtelar",
+    "dateRegistered": "2023-02-03T21:52:37.580Z",
+    "ownerName": "Nellie Leuschke",
+    "address": "Somerville",
+    "phoneNumber": "(635) 923-9786 x545"
+  },
+  {
+    "id": 35,
+    "name": "Mosciski - Windler",
+    "dateRegistered": "2023-02-03T21:48:36.601Z",
+    "ownerName": "Leah Balistreri",
+    "address": "Rocklin",
+    "phoneNumber": "(624) 876-3637"
+  },
+  {
+    "id": 10,
+    "name": "Kohler - Schimmel",
+    "dateRegistered": "2023-02-03T22:26:04.774Z",
+    "ownerName": "Jeremy Dietrich",
+    "address": "Lake Charles",
+    "phoneNumber": "(807) 613-2777"
+  },
+  {
+    "id": 59,
+    "name": "Purdy, Kris and Watsica",
+    "dateRegistered": "2023-02-03T02:39:00.299Z",
+    "ownerName": "Sandy Kihn",
+    "address": "Jurupa Valley",
+    "phoneNumber": "261.945.9288 x64444"
+  },
+  {
+    "id": 15,
+    "name": "Keeling and Sons",
+    "dateRegistered": "2023-02-03T07:03:09.328Z",
+    "ownerName": "Ryan Shanahan",
+    "address": "El Cajon",
+    "phoneNumber": "570-963-9878 x273"
+  },
+  {
+    "id": 1,
+    "name": "Beatty and Sons",
+    "dateRegistered": "2023-02-03T09:14:36.936Z",
+    "ownerName": "Kent Keeling",
+    "address": "San Bruno",
+    "phoneNumber": "(435) 295-0593 x38544"
+  },
+  {
+    "id": 13,
+    "name": "Lockman, Bahringer and Kilback",
+    "dateRegistered": "2023-02-03T20:40:08.476Z",
+    "ownerName": "Meredith Schiller",
+    "address": "Moline",
+    "phoneNumber": "404-997-1569"
+  },
+  {
+    "id": 48,
+    "name": "Schroeder, Heidenreich and Batz",
+    "dateRegistered": "2023-02-03T07:58:02.509Z",
+    "ownerName": "Jake Haley",
+    "address": "Alhambra",
+    "phoneNumber": "(322) 823-0013 x93008"
+  },
+  {
+    "id": 54,
+    "name": "Steuber - Kuhlman",
+    "dateRegistered": "2023-02-03T13:57:56.804Z",
+    "ownerName": "Tracy Kessler",
+    "address": "Canton",
+    "phoneNumber": "(704) 604-3576 x66226"
+  },
+  {
+    "id": 27,
+    "name": "Becker, Corkery and Jast",
+    "dateRegistered": "2023-02-03T08:02:48.083Z",
+    "ownerName": "Noel VonRueden",
+    "address": "Menifee",
+    "phoneNumber": "(597) 836-8016 x675"
+  },
+  {
+    "id": 40,
+    "name": "Shanahan Inc",
+    "dateRegistered": "2023-02-03T16:13:49.697Z",
+    "ownerName": "Hugh Pacocha",
+    "address": "Rochester Hills",
+    "phoneNumber": "792-506-0093"
+  },
+  {
+    "id": 77,
+    "name": "Douglas, Wolf and Cartwright",
+    "dateRegistered": "2023-02-03T12:39:21.771Z",
+    "ownerName": "Victoria Stamm",
+    "address": "Mission Viejo",
+    "phoneNumber": "1-644-538-3294 x2023"
+  },
+  {
+    "id": 68,
+    "name": "Ortiz Group",
+    "dateRegistered": "2023-02-03T20:27:32.176Z",
+    "ownerName": "Brian Buckridge",
+    "address": "Yonkers",
+    "phoneNumber": "(206) 830-8945 x07219"
+  },
+  {
+    "id": 33,
+    "name": "Heaney LLC",
+    "dateRegistered": "2023-02-03T17:36:24.524Z",
+    "ownerName": "Trevor Kessler IV",
+    "address": "El Dorado Hills",
+    "phoneNumber": "316-853-7148"
+  },
+  {
+    "id": 79,
+    "name": "Turner and Sons",
+    "dateRegistered": "2023-02-03T17:08:05.879Z",
+    "ownerName": "Mike Altenwerth",
+    "address": "Hialeah",
+    "phoneNumber": "(473) 405-9827 x782"
+  },
+  {
+    "id": 5,
+    "name": "Larson, Maggio and Ondricka",
+    "dateRegistered": "2023-02-03T15:10:50.826Z",
+    "ownerName": "Mrs. Karla Pfannerstill",
+    "address": "Ann Arbor",
+    "phoneNumber": "994-488-3843 x057"
+  },
+  {
+    "id": 58,
+    "name": "Mohr - Hoeger",
+    "dateRegistered": "2023-02-03T17:22:01.739Z",
+    "ownerName": "Kenny Witting",
+    "address": "Palm Desert",
+    "phoneNumber": "243.648.4618"
+  },
+  {
+    "id": 39,
+    "name": "Kub - Pacocha",
+    "dateRegistered": "2023-02-03T15:41:11.737Z",
+    "ownerName": "Priscilla Prohaska",
+    "address": "Portage",
+    "phoneNumber": "1-990-880-5978 x03422"
+  },
+  {
+    "id": 3,
+    "name": "Paucek and Sons",
+    "dateRegistered": "2023-02-03T08:32:08.225Z",
+    "ownerName": "Geoffrey Braun",
+    "address": "Indianapolis",
+    "phoneNumber": "850.415.1111 x739"
+  },
+  {
+    "id": 84,
+    "name": "Dickens Inc",
+    "dateRegistered": "2023-02-03T21:27:38.451Z",
+    "ownerName": "Austin Daniel",
+    "address": "Cleveland Heights",
+    "phoneNumber": "1-934-305-6061 x298"
+  },
+  {
+    "id": 9,
+    "name": "Kiehn - Ernser",
+    "dateRegistered": "2023-02-03T02:18:01.833Z",
+    "ownerName": "Jimmie Toy",
+    "address": "Somerville",
+    "phoneNumber": "505.207.1436 x608"
+  },
+  {
+    "id": 84,
+    "name": "O'Hara, Ward and Bins",
+    "dateRegistered": "2023-02-03T17:07:58.517Z",
+    "ownerName": "Dewey Tromp",
+    "address": "Salem",
+    "phoneNumber": "249.810.9716 x983"
+  },
+  {
+    "id": 9,
+    "name": "Hills LLC",
+    "dateRegistered": "2023-02-03T08:12:50.671Z",
+    "ownerName": "Theodore Gerhold",
+    "address": "Port Orange",
+    "phoneNumber": "332-965-7674 x1053"
+  },
+  {
+    "id": 10,
+    "name": "Wilkinson LLC",
+    "dateRegistered": "2023-02-03T13:03:59.897Z",
+    "ownerName": "Julia Bergnaum",
+    "address": "North Bethesda",
+    "phoneNumber": "1-689-829-1411"
+  },
+  {
+    "id": 49,
+    "name": "Ebert, Wunsch and Kuvalis",
+    "dateRegistered": "2023-02-03T05:04:49.294Z",
+    "ownerName": "Clarence Schuppe",
+    "address": "Elgin",
+    "phoneNumber": "1-651-634-7715 x07680"
+  },
+  {
+    "id": 81,
+    "name": "Nader - Runolfsdottir",
+    "dateRegistered": "2023-02-03T19:05:57.542Z",
+    "ownerName": "Lena Lebsack",
+    "address": "Fairfield",
+    "phoneNumber": "(853) 636-6032 x99955"
+  },
+  {
+    "id": 63,
+    "name": "Wyman and Sons",
+    "dateRegistered": "2023-02-03T10:12:26.138Z",
+    "ownerName": "Deanna Steuber",
+    "address": "Walnut Creek",
+    "phoneNumber": "1-834-321-8383"
+  },
+  {
+    "id": 63,
+    "name": "Klocko, Cartwright and Reinger",
+    "dateRegistered": "2023-02-03T21:09:26.507Z",
+    "ownerName": "Gerardo Hilll",
+    "address": "Hamilton",
+    "phoneNumber": "1-892-578-4661 x0950"
+  },
+  {
+    "id": 27,
+    "name": "Herman Inc",
+    "dateRegistered": "2023-02-03T23:34:38.477Z",
+    "ownerName": "Miss Cindy Marks DDS",
+    "address": "Norman",
+    "phoneNumber": "(825) 403-9939 x80037"
+  },
+  {
+    "id": 47,
+    "name": "Kulas Inc",
+    "dateRegistered": "2023-02-03T09:08:10.857Z",
+    "ownerName": "Alexander Fay III",
+    "address": "Passaic",
+    "phoneNumber": "(254) 986-7486 x052"
+  },
+  {
+    "id": 26,
+    "name": "Nicolas, Feeney and Cummerata",
+    "dateRegistered": "2023-02-03T03:41:57.240Z",
+    "ownerName": "Santos McCullough",
+    "address": "Walnut Creek",
+    "phoneNumber": "939.487.9109 x5691"
+  },
+  {
+    "id": 94,
+    "name": "O'Connell, Zulauf and Champlin",
+    "dateRegistered": "2023-02-03T21:15:30.603Z",
+    "ownerName": "Jamie Feest",
+    "address": "Allen",
+    "phoneNumber": "798-336-3997 x1753"
+  },
+  {
+    "id": 20,
+    "name": "Stehr, Gusikowski and Auer",
+    "dateRegistered": "2023-02-03T12:10:35.125Z",
+    "ownerName": "Rickey DuBuque",
+    "address": "Santa Barbara",
+    "phoneNumber": "1-834-840-3203 x60162"
+  },
+  {
+    "id": 14,
+    "name": "Hayes Group",
+    "dateRegistered": "2023-02-03T06:26:52.247Z",
+    "ownerName": "Clara Treutel",
+    "address": "Kenner",
+    "phoneNumber": "(502) 383-6273 x387"
+  },
+  {
+    "id": 56,
+    "name": "Casper Inc",
+    "dateRegistered": "2023-02-03T01:48:20.066Z",
+    "ownerName": "Joanna Franecki",
+    "address": "Chula Vista",
+    "phoneNumber": "1-860-761-4215 x6751"
+  },
+  {
+    "id": 69,
+    "name": "Flatley, Halvorson and Willms",
+    "dateRegistered": "2023-02-03T19:38:31.274Z",
+    "ownerName": "Marion Kilback",
+    "address": "Erie",
+    "phoneNumber": "(810) 908-1990"
+  },
+  {
+    "id": 84,
+    "name": "Heaney LLC",
+    "dateRegistered": "2023-02-03T09:18:21.082Z",
+    "ownerName": "Tyler Breitenberg",
+    "address": "Wichita",
+    "phoneNumber": "(435) 611-1117 x1888"
+  },
+  {
+    "id": 23,
+    "name": "Torp - Paucek",
+    "dateRegistered": "2023-02-03T19:03:58.664Z",
+    "ownerName": "Dr. Darryl Heathcote",
+    "address": "Kansas City",
+    "phoneNumber": "(428) 667-4380 x716"
+  },
+  {
+    "id": 60,
+    "name": "White, Hintz and Leffler",
+    "dateRegistered": "2023-02-03T07:22:54.426Z",
+    "ownerName": "Mr. Kathy Hayes",
+    "address": "Sioux Falls",
+    "phoneNumber": "(740) 746-9385 x21561"
+  },
+  {
+    "id": 77,
+    "name": "Ritchie, Bruen and Lubowitz",
+    "dateRegistered": "2023-02-03T14:02:42.073Z",
+    "ownerName": "Christy Ward",
+    "address": "Monterey Park",
+    "phoneNumber": "230.978.2762 x95560"
+  },
+  {
+    "id": 68,
+    "name": "Lebsack - Bogan",
+    "dateRegistered": "2023-02-03T16:19:23.712Z",
+    "ownerName": "Lucy Fadel",
+    "address": "Monroe",
+    "phoneNumber": "(470) 891-8892 x3738"
+  },
+  {
+    "id": 34,
+    "name": "Satterfield Inc",
+    "dateRegistered": "2023-02-03T04:44:30.624Z",
+    "ownerName": "Mr. Opal Wuckert",
+    "address": "Modesto",
+    "phoneNumber": "1-294-646-5940 x4063"
+  },
+  {
+    "id": 6,
+    "name": "Bayer - Rice",
+    "dateRegistered": "2023-02-04T00:31:16.511Z",
+    "ownerName": "Margarita Herman",
+    "address": "Rocky Mount",
+    "phoneNumber": "1-626-257-3819"
+  },
+  {
+    "id": 35,
+    "name": "Walker, Gleason and Schowalter",
+    "dateRegistered": "2023-02-03T07:42:53.441Z",
+    "ownerName": "Brent Turner",
+    "address": "Redlands",
+    "phoneNumber": "577.542.0067 x971"
+  },
+  {
+    "id": 12,
+    "name": "Leuschke Inc",
+    "dateRegistered": "2023-02-03T03:00:44.819Z",
+    "ownerName": "Joshua Adams",
+    "address": "Watsonville",
+    "phoneNumber": "391.543.1327 x08995"
+  },
+  {
+    "id": 16,
+    "name": "Rowe LLC",
+    "dateRegistered": "2023-02-03T18:53:40.156Z",
+    "ownerName": "Mrs. Edmond Shanahan",
+    "address": "Whittier",
+    "phoneNumber": "450-616-9315 x098"
+  },
+  {
+    "id": 55,
+    "name": "Metz - Hagenes",
+    "dateRegistered": "2023-02-03T03:06:34.196Z",
+    "ownerName": "Willis Ullrich",
+    "address": "Mansfield",
+    "phoneNumber": "1-856-557-0268 x8475"
+  },
+  {
+    "id": 22,
+    "name": "Kshlerin, Muller and Grant",
+    "dateRegistered": "2023-02-03T23:53:05.128Z",
+    "ownerName": "Miss Kenny Haley",
+    "address": "Stratford",
+    "phoneNumber": "368-928-0335 x98027"
+  },
+  {
+    "id": 36,
+    "name": "Schaden - Miller",
+    "dateRegistered": "2023-02-03T04:42:41.570Z",
+    "ownerName": "Olive Kiehn",
+    "address": "Baytown",
+    "phoneNumber": "1-441-441-2864 x6138"
+  },
+  {
+    "id": 69,
+    "name": "Ondricka - Parker",
+    "dateRegistered": "2023-02-03T15:15:48.774Z",
+    "ownerName": "Ricardo Ryan",
+    "address": "Collierville",
+    "phoneNumber": "296.393.8682 x185"
+  },
+  {
+    "id": 74,
+    "name": "Mitchell, Lang and Funk",
+    "dateRegistered": "2023-02-03T06:14:21.275Z",
+    "ownerName": "Kelly Marks",
+    "address": "Montebello",
+    "phoneNumber": "869-775-6416 x78041"
+  },
+  {
+    "id": 30,
+    "name": "Rippin Inc",
+    "dateRegistered": "2023-02-03T12:40:38.668Z",
+    "ownerName": "Guadalupe Auer",
+    "address": "Beaumont",
+    "phoneNumber": "(620) 344-7485"
+  },
+  {
+    "id": 26,
+    "name": "Adams, Sawayn and Senger",
+    "dateRegistered": "2023-02-03T23:51:37.468Z",
+    "ownerName": "Hope Morar",
+    "address": "Evanston",
+    "phoneNumber": "556.285.6288 x31304"
+  },
+  {
+    "id": 92,
+    "name": "Doyle, Schmeler and Nitzsche",
+    "dateRegistered": "2023-02-03T01:39:04.545Z",
+    "ownerName": "Elisa Schuster",
+    "address": "Montgomery",
+    "phoneNumber": "1-682-669-5281 x94778"
+  },
+  {
+    "id": 30,
+    "name": "Denesik Inc",
+    "dateRegistered": "2023-02-03T19:40:41.335Z",
+    "ownerName": "Pete Wilkinson",
+    "address": "Cranston",
+    "phoneNumber": "(792) 690-8688 x103"
+  }
+]
