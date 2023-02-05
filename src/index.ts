@@ -1,22 +1,7 @@
 import express, { Request, Response } from "express"
-import { faker } from '@faker-js/faker'
-import { type } from "os"
-const app = express()
+import { genData } from "./utils/genData"
 
-const genData = (rows: number) => {
-  return Array.from(Array(rows), (item, index) => {
-    return {
-      id: index + 1,
-      issueId: faker.random.alphaNumeric,
-      name: faker.company.name(),
-      dateRegistered: faker.date.recent(),
-      ownerName: faker.name.fullName(),
-      address: faker.address.cityName(),
-      phoneNumber: faker.phone.number()
-    }
-  }
-  )
-}
+const app = express()
 
 app.get('/', (req: Request, res: Response) => {
   res.send('Welcome to Database')
@@ -40,4 +25,4 @@ app.get('/data/:id', (req: Request, res: Response) => {
 })
 
 
-app.listen(process.env.PORT || 3000, () => console.log(`server is running on ${process.env.PORT || 3000}`))
+app.listen(process.env.PORT || 4000, () => console.log(`server is running on ${process.env.PORT || 4000}`))
