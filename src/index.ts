@@ -2,7 +2,15 @@ import express, { Request, Response } from "express"
 import { genData } from "./utils/genData"
 
 const app = express()
+const cors = require('cors');
 
+// const corsOption = {
+//     origin: ['http://localhost:3000'],
+// };
+
+// app.use(cors(corsOption));
+// //if you want in every domain then
+app.use(cors())
 app.get('/', (req: Request, res: Response) => {
   res.send('Welcome to Database')
 })
