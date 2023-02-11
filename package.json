@@ -64,6 +64,8 @@
     ]
   },
   "dependencies": {
+    "cors": "^2.8.5",
+    "supertokens-node": "^13.0.1",
     "ts-node": "^10.9.1"
   }
 }

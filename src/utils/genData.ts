@@ -1,6 +1,6 @@
 import { faker } from '@faker-js/faker'
 
-export const genData = (rows: number) => {
+export const genData = (rows: number = 10) => {
   return Array.from(Array(rows), (item, index) => {
     return {
       id: index + 1,
